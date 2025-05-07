@@ -1,0 +1,664 @@
+[
+    {
+        "category": "Hideg előételek",
+        "items": [
+            {
+                "name": "Marha tatár",
+                "description": "(10 dkg) zsenge zöldségekkel, vajjal, pirítóssal",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Hideg kacsamáj „zserbó”",
+                "description": "Tokaji zselével, almakompóttal, lilahagyma",
+                "price": 5690,
+                "allergens": []
+            },
+            {
+                "name": "Padlizsánkrém",
+                "description": "konyhakerti zöldség kavalkáddal, pirítóssal",
+                "price": 4690,
+                "allergens": []
+            },
+            {
+                "name": "Hideg vegyes ízelítő",
+                "description": "",
+                "price": 11900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Levesek csészében",
+        "items": [
+            {
+                "name": "Tanyasi tyúkhúsleves",
+                "description": "benne főtt zöldségekkel, lúdgége tésztával",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Libamájas tyúkhúsleves",
+                "description": "roppanós zöldségekkel, tépett húsával, libamájjal",
+                "price": 2790,
+                "allergens": []
+            },
+            {
+                "name": "Jókai bableves",
+                "description": "sült debreceni rózsával, füstölt csülökkockákkal, tejföllel",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Alföldi tüzes gulyásleves",
+                "description": "csipetkével",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Tárkonyos borjú raguleves",
+                "description": "tejföllel, citrommal",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Cipóban kapható levesek:",
+                "description": "Bableves, Gulyásleves, Raguleves",
+                "price": 2890,
+                "allergens": []
+            },
+            {
+                "name": "Levesek tálban 6dl/",
+                "description": "raguleves, tyúkhúsleves, gulyásleves, bableves",
+                "price": 3890,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Meleg előételek és kímélő ételek",
+        "items": [
+            {
+                "name": "Kacsamáj szeletek",
+                "description": "pirított káposztás czvekkedlivel, burgonya",
+                "price": 4590,
+                "allergens": []
+            },
+            {
+                "name": "Hortobágyi húsos palacsinta",
+                "description": "borjúhúsból készítve",
+                "price": 2190,
+                "allergens": []
+            },
+            {
+                "name": "Grillezett zöldfűszeres gomolya sajt",
+                "description": "paradicsomos pestós zöldsalátával, pörkölt dió morzsával",
+                "price": 2190,
+                "allergens": []
+            },
+            {
+                "name": "Rántott camembert sok magvas bundában",
+                "description": "sült édesburgonya gerezdekkel, balzsamkrémes leveles salátával",
+                "price": 5490,
+                "allergens": []
+            },
+            {
+                "name": "Rántott trappista sajt és gombafej",
+                "description": "hasábburgonyával és tartármártással",
+                "price": 5490,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Halételek",
+        "items": [
+            {
+                "name": "Vegyes halászlé pontyból és harcsából 0,5 l",
+                "description": "gyufatésztával",
+                "price": 2800,
+                "allergens": []
+            },
+            {
+                "name": "Vegyes halászlé pontyból és harcsából 1 l",
+                "description": "gyufatésztával",
+                "price": 5200,
+                "allergens": []
+            },
+            {
+                "name": "Kapros-laskagombás harcsapaprikás",
+                "description": "sült túrós csuszával, tejföllel és bacon chipssel",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Pisztráng filé pankóban sütve",
+                "description": "citrusos leveles salátával és vajas- petrezselymes pirított burgonyával",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Szürkeharcsa filé „rácsosan”",
+                "description": "rakott tepsis burgonyával, lecsókrémmel, tejföllel és kurcinával",
+                "price": 5990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Szárnyas húsételek",
+        "items": [
+            {
+                "name": "Vasalt csirkecomb",
+                "description": "rakott tepsis burgonyával őrdöngős-kacsamájas raguval",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Töltött csirkemell „Chef-módra”",
+                "description": "zöldséges jázminrizzsel és sült burgonyával",
+                "price": 5490,
+                "allergens": []
+            },
+            {
+                "name": "Grillezett csirkemell steak",
+                "description": "mediterrán lecsóval és mogyoró burgonyával",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Aszalt paradicsommal és mozarellával töltött csirkemell tekercs",
+                "description": "pankóban sütve zöldséges bulgur rizottóval",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Fokhagymás kacsacombok",
+                "description": "pirított nudlival, aszaltszilvás-meggyes párolt lilakáposztával és vörösboros jus-vel",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Baconba göngyölt jércemell csíkok",
+                "description": "zöldséges pirított burgonyával,sajtmártással",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Grillezett fokhagymás kacsamáj szeletek (2 szelet)",
+                "description": "lyoni hagymával és tejfölös burgonyapürével",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Grillezett fokhagymás kacsamáj szeletek (4 szelet)",
+                "description": "lyoni hagymával és tejfölös burgonyapürével",
+                "price": 11990,
+                "allergens": []
+            },
+            {
+                "name": "Rántott kacsamáj szeletek",
+                "description": "zöldpestos burgonyapürével és almakompóttal",
+                "price": 8990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Sertés húsételek",
+        "items": [
+            {
+                "name": "Egészben sült sertés csülök",
+                "description": "szalvétagombóccal, párolt savanyú káposztával és barna-sörös mártással",
+                "price": 6490,
+                "allergens": []
+            },
+            {
+                "name": "Ropogós csülök",
+                "description": "szalonnás-juhtúrós galuskával,lLyoni hagymával, pecsenyelével",
+                "price": 6490,
+                "allergens": []
+            },
+            {
+                "name": "Lúdvári pecsenye",
+                "description": "pácolt tarja, csípős szósszal kenegetve",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Hírös velős pecsenye",
+                "description": "pácolt tarja, magyaros velőkrém",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Óriás bécsi szelet",
+                "description": "pankóban sütve, hasábburgonyával, és ecetes hagymasalátával",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Sistergős szűzpecsenye lecsós burgonyával, grillezett zöldségekkel",
+                "description": "",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Rántott sertésvelő",
+                "description": "sültburgonyával, tartármártással",
+                "price": 4990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Készételek",
+        "items": [
+            {
+                "name": "Vörösboros marhapörkölt",
+                "description": "galuskával",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Pacalpörkölt",
+                "description": "sós burgonyával",
+                "price": 4490,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "2 személyes tálak",
+        "items": [
+            {
+                "name": "Vegyes sültes tál",
+                "description": "Cordon blue, rántott sajt, vasalt csirkecomb filé, lecsós sertés tarja, rántott gombafej, párizsi bundában csirkemell csíkok, vegyes köret, tartármártás",
+                "price": 11900,
+                "allergens": []
+            },
+            {
+                "name": "Csárda tál",
+                "description": "Rántott pulykamell tekercs sonkával, gombával, sajttal töltve, pácolt, grillezett csirkemell filé szalonna köntösben, kemencés pácolt csülök,roston libamáj egy kis fokhagymával,ropogós kacsacomb,rántott gomba, sült füstölt szalonna, vegyes köret, tartármártás, tejszínes gombaragu",
+                "price": 17900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "A Séf magyaros és gourmet ajánlata",
+        "items": [
+            {
+                "name": "Csárda cigánypecsenyéje",
+                "description": "pácolt tarja, szűzérme, sült kakastaréj szalonna, fűszeres steakburgonya, vegyes savanyúság",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Csárda vegyes tányéros",
+                "description": "pácolt tarja, vasalt csirkecomb, ropogós kacsacomb kakastaréj szalonna, fűszeres cikkburgonya, friss vegyes saláta",
+                "price": 6290,
+                "allergens": []
+            },
+            {
+                "name": "Grillezett lazac steak",
+                "description": "fokhagymás parajos nudlival, parmezános ropogóssal",
+                "price": 6990,
+                "allergens": []
+            },
+            {
+                "name": "Rozmaringos sertéstarja steak",
+                "description": "vajas-petrezselymes pirított burgonyával, savanyított karfiollal és jus-vel",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Erdei gombás szarvas ragu",
+                "description": "röszti burgonyával",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Saltimbocca",
+                "description": "sertés szűzből készítve baconba göngyölve, burgonyapürével, batáta gerezdekkel és leveles salátával",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Sous-vide marhapofa burgundi",
+                "description": "pirított szalvétagombóccal és savanyított zöldségekkel",
+                "price": 9990,
+                "allergens": []
+            },
+            {
+                "name": "Rosé kacsamell és roston kacsamáj",
+                "description": "fahéjas-mézes porított szilvával, gratin burgonyával és jus-vel",
+                "price": 8990,
+                "allergens": []
+            },
+            {
+                "name": "Jércesaláta",
+                "description": "tortilla kosárban cézáröntettel és parmezános ropogóssal",
+                "price": 6790,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Bélszín ételek",
+        "items": [
+            {
+                "name": "Cseresznyepaprikás bélszíncsíkok",
+                "description": "karika sült burgonyával, tükörtojással",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Surf and Turf grillezett bélszín steak és garnéla nyársak",
+                "description": "édesburgonya gerezdekkel és tejszínes-citrusos rózsabors mártással",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Stroganoff bélszíncsíkok",
+                "description": "petrezselymes jázminrizzsel",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Bélszín steak (1 szelet – 15 dkg)",
+                "description": "lyoni hagymával, fűszeres steakburgonyával és barnamártással",
+                "price": 6990,
+                "allergens": []
+            },
+            {
+                "name": "Bélszín steak (2 szelet – 30 dkg)",
+                "description": "lyoni hagymával, fűszeres steakburgonyával és barnamártással",
+                "price": 12900,
+                "allergens": []
+            },
+            {
+                "name": "Lávakövön sült bélszín steak (2 szelet – 30 dkg) libamáj kalappal",
+                "description": "kalappal,friss salátával, fűszeres burgonyával és borsmártással",
+                "price": 13900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Gyermekeknek",
+        "items": [
+            {
+                "name": "Rántott csirkemell",
+                "description": "vegyes körettel és ketchuppal",
+                "price": 2490,
+                "allergens": []
+            },
+            {
+                "name": "Sajtos tejfölös nudli",
+                "description": "",
+                "price": 2290,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Desszertek",
+        "items": [
+            {
+                "name": "Somlói galuska",
+                "description": "barnacsokoládé öntettel, karamellizált dióval, tejszínhabbal",
+                "price": 2390,
+                "allergens": []
+            },
+            {
+                "name": "Lángoló túrós-tejespite ",
+                "description": "házi baracklekvárral, pirított mandulával",
+                "price": 2590,
+                "allergens": []
+            },
+            {
+                "name": "Mákos bobajka",
+                "description": "mézes vanília öntettel, fagyival, tejszínhabbal",
+                "price": 2490,
+                "allergens": []
+            },
+            {
+                "name": "Sajttorta",
+                "description": "erdei gyümölcsökkel",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Lángoló Gundel palacsinta",
+                "description": "",
+                "price": 2390,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Köretek",
+        "items": [
+            {
+                "name": "Grillezett zöldségek",
+                "description": "paprika, paradicsom, lilahagyma, cukkini",
+                "price": 2990,
+                "allergens": []
+            },
+            {
+                "name": "Túrós csusza tepertővel",
+                "description": "",
+                "price": 2990,
+                "allergens": []
+            },
+            {
+                "name": "Galuska",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Héjában sült burgonya",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Sós burgonya",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Sült burgonya",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Petrezselymes burgonya",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Krokett",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Rizs",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Párolt zöldségek",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Mártások",
+        "items": [
+            {
+                "name": "Gombamártás",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Bakonyi ragu",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Fűszeres magyaros lecsó",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Tartármártás",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Barnamártás",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Áfonyalekvár",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Tejföl",
+                "description": "",
+                "price": 600,
+                "allergens": []
+            },
+            {
+                "name": "ketchup",
+                "description": "",
+                "price": 600,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Saláták",
+        "items": [
+            {
+                "name": "Görög saláta",
+                "description": "",
+                "price": 3290,
+                "allergens": []
+            },
+            {
+                "name": "Friss vegyes saláta",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Tejfölös uborkasaláta",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Paradicsomsaláta",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Káposztasaláta",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Céklasaláta",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Csemege uborka",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Piaci vegyes savanyúság",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Salate",
+        "items": [
+            {
+                "name": "Griechischer Salat",
+                "description": "",
+                "price": 3290,
+                "allergens": []
+            },
+            {
+                "name": "Frischer gemischter Salat",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Gurkensalat mit Sauerrahm",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Tomatensalat",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Krautsalat",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Rote-Bete-Salat",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Delikatess-Gurken",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Marktgemischtes Sauergemüse",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            }
+        ]
+    }
+]

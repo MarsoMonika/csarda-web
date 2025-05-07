@@ -1,0 +1,611 @@
+[
+    {
+        "category": "Kalte Vorspeisen",
+        "items": [
+            {
+                "name": "Rindertatar",
+                "description": "(100 g) mit zartem Gemüse, Butter und Toast",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Kalte Entenleber „Zserbó”",
+                "description": "mit Tokajer-Gelee, Apfelkompott und roten Zwiebeln",
+                "price": 5690,
+                "allergens": []
+            },
+            {
+                "name": "Auberginencreme",
+                "description": "mit frischem Gartengemüse und Toast",
+                "price": 4690,
+                "allergens": []
+            },
+            {
+                "name": "Gemischte kalte Vorspeisenplatte",
+                "description": "",
+                "price": 11900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Suppen in Tassen",
+        "items": [
+            {
+                "name": "Bauernhühnersuppe",
+                "description": "mit gekochtem Gemüse und Gänsehalsnudeln",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Hühnersuppe mit Gänseleber",
+                "description": "mit knackigem Gemüse, zartem Fleisch und Gänseleber",
+                "price": 2790,
+                "allergens": []
+            },
+            {
+                "name": "Jókai-Bohnensuppe",
+                "description": "mit gebratener Debrecziner Wurst, geräucherten Schweinshaxenwürfeln und Sauerrahm",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Feurige Alföld-Gulaschsuppe",
+                "description": "mit Nockerln",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Estragon-Kalbsragoutsuppe",
+                "description": "mit Sauerrahm und Zitrone",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Suppen im Brotteig serviert:",
+                "description": "Bohnensuppe, Gulaschsuppe, Ragoutsuppe",
+                "price": 2890,
+                "allergens": []
+            },
+            {
+                "name": "Suppen in Schüssel (600 ml)",
+                "description": "Ragoutsuppe, Hühnersuppe, Gulaschsuppe, Bohnensuppe",
+                "price": 3890,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Warme Vorspeisen und leichte Gerichte",
+        "items": [
+            {
+                "name": "Entenleberscheiben",
+                "description": "mit gebratenem Kraut-Zweckedli und Kartoffeln",
+                "price": 4590,
+                "allergens": []
+            },
+            {
+                "name": "Gefüllter Hortobágyi-Palatschinken",
+                "description": "aus Kalbfleisch zubereitet",
+                "price": 2190,
+                "allergens": []
+            },
+            {
+                "name": "Gegrillter Kräuter-Gomolya-Käse",
+                "description": "mit Tomaten-Pesto-Blattsalat und gerösteten Walnussbröseln",
+                "price": 2190,
+                "allergens": []
+            },
+            {
+                "name": "Panierter Camembert in Körnermantel",
+                "description": "mit gebackenen Süßkartoffelspalten und Blattsalat mit Balsamico-Creme",
+                "price": 5490,
+                "allergens": []
+            },
+            {
+                "name": "Panierter Trappistenkäse und Champignonköpfe",
+                "description": "mit Pommes frites und Tartarsoße",
+                "price": 5490,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Fischgerichte",
+        "items": [
+            {
+                "name": "Gemischte Fischsuppe aus Karpfen und Wels (0,5 l)",
+                "description": "mit Streichnudeln",
+                "price": 2800,
+                "allergens": []
+            },
+            {
+                "name": "Gemischte Fischsuppe aus Karpfen und Wels (1 l)",
+                "description": "mit Streichnudeln",
+                "price": 5200,
+                "allergens": []
+            },
+            {
+                "name": "Wels-Paprikasch mit Dill und Austernpilzen",
+                "description": "mit gebackenem Quarknudelauflauf, Sauerrahm und Speckchips",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Forellenfilet im Panko gebacken",
+                "description": "mit Zitrus-Blattsalat und gebratenen Butter-Petersilienkartoffeln",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Zanderfilet im Gittermuster",
+                "description": "mit Ofenkartoffelauflauf, Letschocreme, Sauerrahm und Grammeln",
+                "price": 5990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Geflügelgerichte",
+        "items": [
+            {
+                "name": "Gepresste Hähnchenkeule",
+                "description": "mit überbackenem Kartoffelauflauf und teuflischem Entenleberragout",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Gefüllte Hähnchenbrust 'Chef-Art'",
+                "description": "mit Gemüse-Jasminreis und Bratkartoffeln",
+                "price": 5490,
+                "allergens": []
+            },
+            {
+                "name": "Gegrilltes Hähnchenbruststeak",
+                "description": "mit mediterranem Letscho und Erdnusskartoffeln",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Hähnchenbrustrolle mit getrockneten Tomaten und Mozzarella",
+                "description": "in Panko gebacken, mit Gemüse-Bulgur-Risotto",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Knoblauchentenkeulen",
+                "description": "mit gebratenen Nockerln, geschmortem Rotkohl mit Backpflaumen und Sauerkirschen, dazu Rotwein-Jus",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Mit Speck umwickelte Hähnchenstreifen",
+                "description": "mit gebratenen Gemüse-Kartoffeln und Käsesoße",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Gegrillte Entenleberscheiben mit Knoblauch (2 Scheiben)",
+                "description": "mit Lyoner Zwiebeln und Sauerrahm-Kartoffelpüree",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Gegrillte Entenleberscheiben mit Knoblauch (4 Scheiben)",
+                "description": "mit Lyoner Zwiebeln und Sauerrahm-Kartoffelpüree",
+                "price": 11990,
+                "allergens": []
+            },
+            {
+                "name": "Panierte Entenleberscheiben",
+                "description": "mit grünem Pesto-Kartoffelpüree und Apfelkompott",
+                "price": 8990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Schweinefleischgerichte",
+        "items": [
+            {
+                "name": "Ganz gebratene Schweinshaxe",
+                "description": "mit Serviettenknödeln, geschmortem Sauerkraut und Dunkelbier-Soße",
+                "price": 6490,
+                "allergens": []
+            },
+            {
+                "name": "Knusprige Schweinshaxe",
+                "description": "mit Speck-Schafskäse-Nockerln, Lyoner Zwiebeln und Bratensaft",
+                "price": 6490,
+                "allergens": []
+            },
+            {
+                "name": "Lúdvár-Braten",
+                "description": "mariniertes Schweinenackensteak mit scharfer Soße bestrichen",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Hírös-Knochenmark-Braten",
+                "description": "mariniertes Schweinenackensteak mit ungarischer Markcreme",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Riesiges Wiener Schnitzel",
+                "description": "in Panko gebacken, mit Pommes frites und Essig-Zwiebel-Salat",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Zischendes Schweinefilet mit Letscho-Kartoffeln und gegrilltem Gemüse",
+                "description": "",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Panierte Schweinehirn",
+                "description": "mit Bratkartoffeln und Tartarsoße",
+                "price": 4990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Fertiggerichte",
+        "items": [
+            {
+                "name": "Rindergulasch mit Rotwein",
+                "description": "mit Nockerln",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Kuttelgulasch",
+                "description": "mit Salzkartoffeln",
+                "price": 4490,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Platten für zwei Personen",
+        "items": [
+            {
+                "name": "Gemischte Fleischplatte",
+                "description": "Cordon bleu, panierter Käse, gepresste Hähnchenkeule, Schweinenacken mit Letscho, panierte Champignonköpfe, Hähnchenstreifen im Pariser Teig, gemischte Beilagen, Tartarsoße",
+                "price": 11900,
+                "allergens": []
+            },
+            {
+                "name": "Csárda-Platte",
+                "description": "Putenbrustrolle mit Schinken, Pilzen und Käse gefüllt, marinierte, gegrillte Hähnchenbrust im Speckmantel, ofengebratene marinierte Schweinshaxe, gegrillte Gänseleber mit Knoblauch, knusprige Entenkeule, panierte Pilze, gebratener Räucherspeck, gemischte Beilagen, Tartarsoße, cremiges Pilzragout",
+                "price": 17900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Ungarische und Gourmet-Empfehlung des Küchenchefs",
+        "items": [
+            {
+                "name": "Csárda-Zigeunerbraten",
+                "description": "marinierter Schweinenacken, Schweinefilet, gebratener Hahnenkamm-Speck, gewürzte Steakkartoffeln, gemischtes Sauergemüse",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Gemischter Csárda-Teller",
+                "description": "marinierter Schweinenacken, gepresste Hähnchenkeule, knusprige Entenkeule, Hahnenkamm-Speck, gewürzte Kartoffelspalten, frischer gemischter Salat",
+                "price": 6290,
+                "allergens": []
+            },
+            {
+                "name": "Gegrilltes Lachssteak",
+                "description": "mit Knoblauch-Spinat-Nockerln und Parmesan-Crunch",
+                "price": 6990,
+                "allergens": []
+            },
+            {
+                "name": "Rosmarin-Schweinenackensteak",
+                "description": "mit gebratenen Butter-Petersilienkartoffeln, eingelegtem Blumenkohl und Jus",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Wildragout mit Waldpilzen",
+                "description": "mit Rösti-Kartoffeln",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Saltimbocca",
+                "description": "aus Schweinefilet, in Speck gewickelt, mit Kartoffelpüree, Süßkartoffelspalten und Blattsalat",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Sous-vide geschmorte Rinderbacken à la Bourguignon",
+                "description": "mit gebratenen Serviettenknödeln und eingelegtem Gemüse",
+                "price": 9990,
+                "allergens": []
+            },
+            {
+                "name": "Rosé Entenbrust und gegrillte Entenleber",
+                "description": "mit zimtig-honigbestäubten Pflaumen, Gratin-Kartoffeln und Jus",
+                "price": 8990,
+                "allergens": []
+            },
+            {
+                "name": "Hähnchensalat",
+                "description": "in Tortillakörbchen mit Caesar-Dressing und Parmesan-Crunch",
+                "price": 6790,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Rinderfilet-Gerichte",
+        "items": [
+            {
+                "name": "Rinderfiletstreifen mit Kirschpaprika",
+                "description": "mit Bratkartoffelscheiben und Spiegelei",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Surf and Turf – Gegrilltes Rinderfiletsteak und Garnelenspieße",
+                "description": "mit Süßkartoffelspalten und Sahne-Zitrus-Rosa-Pfeffersoße",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Stroganoff-Rinderfiletstreifen",
+                "description": "mit Petersilien-Jasminreis",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Rinderfiletsteak (1 Stück – 150 g)",
+                "description": "mit Lyoner Zwiebeln, gewürzten Steakkartoffeln und Bratensoße",
+                "price": 6990,
+                "allergens": []
+            },
+            {
+                "name": "Rinderfiletsteak (2 Stück – 300 g)",
+                "description": "mit Lyoner Zwiebeln, gewürzten Steakkartoffeln und Bratensoße",
+                "price": 12900,
+                "allergens": []
+            },
+            {
+                "name": "Auf Lavastein gebratenes Rinderfiletsteak (2 Stück – 300 g) mit Gänseleberhaube",
+                "description": "mit frischem Salat, gewürzten Kartoffeln und Pfeffersoße",
+                "price": 13900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Für Kinder",
+        "items": [
+            {
+                "name": "Paniertes Hähnchenbrustfilet",
+                "description": "mit gemischter Beilage und Ketchup",
+                "price": 2490,
+                "allergens": []
+            },
+            {
+                "name": "Nockerln mit Sauerrahm und Käse",
+                "description": "",
+                "price": 2290,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Desserts",
+        "items": [
+            {
+                "name": "Somlauer Nockerln",
+                "description": "mit dunkler Schokoladensoße, karamellisierten Nüssen und Schlagsahne",
+                "price": 2390,
+                "allergens": []
+            },
+            {
+                "name": "Flambierter Quark-Grießauflauf",
+                "description": "mit hausgemachter Aprikosenmarmelade und gerösteten Mandeln",
+                "price": 2590,
+                "allergens": []
+            },
+            {
+                "name": "Mohn-Bobajka",
+                "description": "mit Honig-Vanillesoße, Eis und Schlagsahne",
+                "price": 2490,
+                "allergens": []
+            },
+            {
+                "name": "Käsekuchen",
+                "description": "mit Waldfrüchten",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Flambierter Gundel-Palatschinken",
+                "description": "",
+                "price": 2390,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Beilagen",
+        "items": [
+            {
+                "name": "Gegrilltes Gemüse",
+                "description": "Paprika, Tomate, rote Zwiebel, Zucchini",
+                "price": 2990,
+                "allergens": []
+            },
+            {
+                "name": "Quarknudeln mit Grammeln",
+                "description": "",
+                "price": 2990,
+                "allergens": []
+            },
+            {
+                "name": "Nockerln",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Ofenkartoffeln mit Schale",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Salzkartoffeln",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Bratkartoffeln",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Petersilienkartoffeln",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Kroketten",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Reis",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Gedünstetes Gemüse",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Soßen",
+        "items": [
+            {
+                "name": "Champignonsoße",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Bakonyi-Ragout",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Ungarisches Letscho (pikant)",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Tartarsoße",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Bratensoße",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Preiselbeermarmelade",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Sauerrahm",
+                "description": "",
+                "price": 600,
+                "allergens": []
+            },
+            {
+                "name": "Ketchup",
+                "description": "",
+                "price": 600,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Salate",
+        "items": [
+            {
+                "name": "Griechischer Salat",
+                "description": "",
+                "price": 3290,
+                "allergens": []
+            },
+            {
+                "name": "Frischer gemischter Salat",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Gurkensalat mit Sauerrahm",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Tomatensalat",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Krautsalat",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Rote-Bete-Salat",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Delikatess-Gurken",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Marktgemischtes Sauergemüse",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            }
+        ]
+    }
+]

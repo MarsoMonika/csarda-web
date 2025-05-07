@@ -1,0 +1,611 @@
+[
+    {
+        "category": "Cold Appetizers",
+        "items": [
+            {
+                "name": "Beef Tartar",
+                "description": "(100g) with tender vegetables, butter, and toast",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Cold Duck Liver 'Gerbeaud Style'",
+                "description": "with Tokaji jelly, apple compote, and red onion",
+                "price": 5690,
+                "allergens": []
+            },
+            {
+                "name": "Eggplant Cream",
+                "description": "with a garden vegetable medley and toast",
+                "price": 4690,
+                "allergens": []
+            },
+            {
+                "name": "Cold Mixed Appetizer Plate",
+                "description": "",
+                "price": 11900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Soups in a Cup",
+        "items": [
+            {
+                "name": "Farmyard Chicken Soup",
+                "description": "with cooked vegetables and goose-neck pasta",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Chicken Soup with goose liver",
+                "description": "with crispy vegetables, shredded meat, and goose liver",
+                "price": 2790,
+                "allergens": []
+            },
+            {
+                "name": "Jókai Bean Soup",
+                "description": "with roasted Debreceni sausage, smoked pork knuckle cubes, and sour cream",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Spicy Alföld-style Goulash Soup",
+                "description": "with pinched noodles",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Tarragon Veal Ragout Soup",
+                "description": "with sour cream and lemon",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Soups served in bread",
+                "description": "Bean soup, Goulash soup,  Veal Ragout soup",
+                "price": 2890,
+                "allergens": []
+            },
+            {
+                "name": "Soups in a bowl 600ml",
+                "description": "veal ragout soup, chicken soup, goulash soup, bean soup",
+                "price": 3890,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Hot Starters and Light Meals",
+        "items": [
+            {
+                "name": "Duck Liver Slices",
+                "description": "with sautéed cabbage noodles and potatoes",
+                "price": 4590,
+                "allergens": []
+            },
+            {
+                "name": "Hortobágy-Style Pancake",
+                "description": "filled with veal",
+                "price": 2190,
+                "allergens": []
+            },
+            {
+                "name": "Grilled Herb Gomolya Cheese",
+                "description": "with tomato pesto green salad and roasted walnut crumbs",
+                "price": 2190,
+                "allergens": []
+            },
+            {
+                "name": "Breaded Camembert in a Multigrain Crust",
+                "description": "with roasted sweet potato wedges and leafy salad with balsamic cream",
+                "price": 5490,
+                "allergens": []
+            },
+            {
+                "name": "Breaded Trappist Cheese and Mushroom Heads",
+                "description": "with French fries and tartar sauce",
+                "price": 5490,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Fish Dishes",
+        "items": [
+            {
+                "name": "Mixed Fisherman's Soup with Carp and Catfish (0.5 L)",
+                "description": "with matchstick pasta",
+                "price": 2800,
+                "allergens": []
+            },
+            {
+                "name": "Mixed Fisherman's Soup with Carp and Catfish (1 L)",
+                "description": "with matchstick pasta",
+                "price": 5200,
+                "allergens": []
+            },
+            {
+                "name": "Catfish Paprikash with Oyster Mushrooms and Dill",
+                "description": "served with baked cottage cheese noodles, sour cream, and bacon chips",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Panko-Crusted Trout Fillet",
+                "description": "with citrus leafy salad and butter-parsley sautéed potatoes",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Grilled Catfish Fillet 'Lattice Style'",
+                "description": "with layered baked potatoes, ratatouille cream, sour cream, and crispy pork cracklings",
+                "price": 5990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Poultry Dishes",
+        "items": [
+            {
+                "name": "Pressed Chicken Thigh",
+                "description": "with layered baked potatoes and devilish duck liver ragout",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Stuffed Chicken Breast 'Chef Style'",
+                "description": "with vegetable jasmine rice and roasted potatoes",
+                "price": 5490,
+                "allergens": []
+            },
+            {
+                "name": "Grilled Chicken Breast Steak",
+                "description": "with Mediterranean ratatouille and peanut potatoes",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Chicken Breast Roll Stuffed with Sun-Dried Tomatoes and Mozzarella",
+                "description": "breaded in panko, served with vegetable bulgur risotto",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Garlic Duck Legs",
+                "description": "with sautéed dumplings, stewed red cabbage with prunes and sour cherries, and red wine jus",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Bacon-Wrapped Chicken Breast Strips",
+                "description": "with vegetable sautéed potatoes and cheese sauce",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Grilled Garlic Duck Liver Slices (2 slices)",
+                "description": "with Lyon-style onions and sour cream mashed potatoes",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Grilled Garlic Duck Liver Slices (4 slices)",
+                "description": "with Lyon-style onions and sour cream mashed potatoes",
+                "price": 11990,
+                "allergens": []
+            },
+            {
+                "name": "Breaded Duck Liver Slices",
+                "description": "with green pesto mashed potatoes and apple compote",
+                "price": 8990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Pork Dishes",
+        "items": [
+            {
+                "name": "Whole Roasted Pork Knuckle",
+                "description": "with bread dumplings, braised sauerkraut, and dark beer sauce",
+                "price": 6490,
+                "allergens": []
+            },
+            {
+                "name": "Crispy Pork Knuckle",
+                "description": "with bacon-sheep cheese dumplings, Lyon-style onions, and roast gravy",
+                "price": 6490,
+                "allergens": []
+            },
+            {
+                "name": "Lúdvár-Style Roast",
+                "description": "marinated pork neck brushed with spicy sauce",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Hírös Marrow Roast",
+                "description": "marinated pork neck with spicy marrow cream",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Giant Viennese Cutlet",
+                "description": "breaded in panko, served with French fries and pickled onion salad",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Sizzling Pork Tenderloin",
+                "description": "with ratatouille-style potatoes and grilled vegetables",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Breaded Pork Brain",
+                "description": "with fried potatoes and tartar sauce",
+                "price": 4990,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Ready-to-Serve Dishes",
+        "items": [
+            {
+                "name": "Beef Stew with Red Wine",
+                "description": "served with fresh hungarian style pasta",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Tripe Stew",
+                "description": "served with salted boiled potatoes",
+                "price": 4490,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Platters for Two",
+        "items": [
+            {
+                "name": "Mixed Meat Platter",
+                "description": "Cordon bleu, breaded cheese, pressed chicken thigh fillet, pork neck with lecsó, breaded mushroom caps, chicken breast strips in Parisian batter, mixed side dishes, tartar sauce",
+                "price": 11900,
+                "allergens": []
+            },
+            {
+                "name": "Csárda Platter",
+                "description": "Breaded turkey breast roll filled with ham, mushrooms, and cheese; marinated grilled chicken breast fillet wrapped in bacon; oven-roasted marinated pork knuckle; grilled foie gras with garlic; crispy duck leg; breaded mushrooms; roasted smoked bacon; mixed side dishes; tartar sauce; creamy mushroom ragout",
+                "price": 17900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Chef's Hungarian and Gourmet Selection",
+        "items": [
+            {
+                "name": "Csárda-Style Gypsy Roast",
+                "description": "marinated pork neck, pork tenderloin, crispy pork crest, spiced steak potatoes, mixed pickles",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Csárda Mixed Plate",
+                "description": "marinated pork neck, pressed chicken thigh, crispy duck leg, pork crest, spiced potato wedges, fresh mixed salad",
+                "price": 6290,
+                "allergens": []
+            },
+            {
+                "name": "Grilled Salmon Steak",
+                "description": "with garlic-spinach dumplings and parmesan crisps",
+                "price": 6990,
+                "allergens": []
+            },
+            {
+                "name": "Rosemary Pork Neck Steak",
+                "description": "with butter-parsley sautéed potatoes, pickled cauliflower, and jus",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Venison Ragout with Forest Mushrooms",
+                "description": "served with rösti potatoes",
+                "price": 4990,
+                "allergens": []
+            },
+            {
+                "name": "Saltimbocca",
+                "description": "pork tenderloin wrapped in bacon, with mashed potatoes, sweet potato wedges, and leafy salad",
+                "price": 5990,
+                "allergens": []
+            },
+            {
+                "name": "Sous-Vide Beef Cheeks Bourguignon",
+                "description": "with sautéed bread dumplings and pickled vegetables",
+                "price": 9990,
+                "allergens": []
+            },
+            {
+                "name": "Rosé Duck Breast and Grilled Duck Liver",
+                "description": "with cinnamon-honey powdered plums, gratin potatoes, and jus",
+                "price": 8990,
+                "allergens": []
+            },
+            {
+                "name": "Chicken Salad",
+                "description": "served in a tortilla basket with Caesar dressing and parmesan crisps",
+                "price": 6790,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Beef Tenderloin Dishes",
+        "items": [
+            {
+                "name": "Tenderloin Strips with Cherry Peppers",
+                "description": "with sliced fried potatoes and sunny-side-up egg",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Surf and Turf – Grilled Tenderloin Steak and Shrimp Skewers",
+                "description": "with sweet potato wedges and creamy citrus-pink pepper sauce",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Stroganoff Tenderloin Strips",
+                "description": "with parsley jasmine rice",
+                "price": 7990,
+                "allergens": []
+            },
+            {
+                "name": "Tenderloin Steak (1 slice – 150g)",
+                "description": "with Lyon-style onions, spiced steak potatoes, and brown sauce",
+                "price": 6990,
+                "allergens": []
+            },
+            {
+                "name": "Tenderloin Steak (2 slices – 300g)",
+                "description": "with Lyon-style onions, spiced steak potatoes, and brown sauce",
+                "price": 12900,
+                "allergens": []
+            },
+            {
+                "name": "Lava Stone-Grilled Tenderloin Steak (2 slices – 300g) with goose liver",
+                "description": "with fresh salad, spiced potatoes, and pepper sauce",
+                "price": 13900,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "For Children",
+        "items": [
+            {
+                "name": "Breaded Chicken Breast",
+                "description": "with mixed side dish and ketchup",
+                "price": 2490,
+                "allergens": []
+            },
+            {
+                "name": "Cottage Cheese Noodles with Sour Cream and Cheese",
+                "description": "",
+                "price": 2290,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Desserts",
+        "items": [
+            {
+                "name": "Somlói Galuska (Hungarian Trifle)",
+                "description": "with dark chocolate sauce, caramelized walnuts, and whipped cream",
+                "price": 2390,
+                "allergens": []
+            },
+            {
+                "name": "Flaming Cottage Cheese Milk Pie",
+                "description": "with homemade apricot jam and toasted almonds",
+                "price": 2590,
+                "allergens": []
+            },
+            {
+                "name": "Poppy Seed Bobajka",
+                "description": "with honey-vanilla sauce, ice cream, and whipped cream",
+                "price": 2490,
+                "allergens": []
+            },
+            {
+                "name": "Cheesecake",
+                "description": "with forest fruits",
+                "price": 1990,
+                "allergens": []
+            },
+            {
+                "name": "Flaming Gundel Pancake",
+                "description": "",
+                "price": 2390,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Side Dishes",
+        "items": [
+            {
+                "name": "Grilled Vegetables",
+                "description": "bell pepper, tomato, red onion, zucchini",
+                "price": 2990,
+                "allergens": []
+            },
+            {
+                "name": "Cottage Cheese Noodles with Pork Cracklings",
+                "description": "",
+                "price": 2990,
+                "allergens": []
+            },
+            {
+                "name": "Dumplings (Galuska)",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Baked Potatoes in Skin",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Salted Potatoes",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Fried Potatoes",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Parsley Potatoes",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Potato Croquettes",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Rice",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            },
+            {
+                "name": "Steamed Vegetables",
+                "description": "",
+                "price": 1190,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Sauces",
+        "items": [
+            {
+                "name": "Mushroom Sauce",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Bakonyi Ragout",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Spicy Hungarian Lecsó",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Tartar Sauce",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Brown Sauce",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Blueberry Jam",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Sour Cream",
+                "description": "",
+                "price": 600,
+                "allergens": []
+            },
+            {
+                "name": "Ketchup",
+                "description": "",
+                "price": 600,
+                "allergens": []
+            }
+        ]
+    },
+    {
+        "category": "Salads",
+        "items": [
+            {
+                "name": "Greek Salad",
+                "description": "",
+                "price": 3290,
+                "allergens": []
+            },
+            {
+                "name": "Fresh Mixed Salad",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Cucumber Salad with Sour Cream",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Tomato Salad",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "sauerkraut",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Pickled beets",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Pickled Gherkins",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            },
+            {
+                "name": "Market-Style Mixed Pickles",
+                "description": "",
+                "price": 990,
+                "allergens": []
+            }
+        ]
+    }
+]
