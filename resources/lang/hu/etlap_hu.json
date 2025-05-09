@@ -607,58 +607,5 @@
                 "allergens": []
             }
         ]
-    },
-    {
-        "category": "Salate",
-        "items": [
-            {
-                "name": "Griechischer Salat",
-                "description": "",
-                "price": 3290,
-                "allergens": []
-            },
-            {
-                "name": "Frischer gemischter Salat",
-                "description": "",
-                "price": 990,
-                "allergens": []
-            },
-            {
-                "name": "Gurkensalat mit Sauerrahm",
-                "description": "",
-                "price": 990,
-                "allergens": []
-            },
-            {
-                "name": "Tomatensalat",
-                "description": "",
-                "price": 990,
-                "allergens": []
-            },
-            {
-                "name": "Krautsalat",
-                "description": "",
-                "price": 990,
-                "allergens": []
-            },
-            {
-                "name": "Rote-Bete-Salat",
-                "description": "",
-                "price": 990,
-                "allergens": []
-            },
-            {
-                "name": "Delikatess-Gurken",
-                "description": "",
-                "price": 990,
-                "allergens": []
-            },
-            {
-                "name": "Marktgemischtes Sauergemüse",
-                "description": "",
-                "price": 990,
-                "allergens": []
-            }
-        ]
     }
 ]

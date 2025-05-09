@@ -5,14 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ config('app.name', 'Csárda') }}</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
 </head>
-<body class="bg-white text-gray-900 font-sans">
+
+{{-- EZ A FONTOS RÉSZ --}}
+<body class="bg-white text-gray-900 font-sans min-h-screen flex flex-col">
+
 @include('partials.navbar')
 
-<main>
+{{-- EZT IS MÓDOSÍTJUK --}}
+<main class="flex-grow">
     @yield('content')
 </main>
+
 <footer class="bg-[#f9f9f5] border-t border-gray-200 py-10 px-6 text-center text-sm text-gray-700">
     <div class="max-w-4xl mx-auto space-y-2">
         <h3 class="text-lg font-semibold text-gray-800">Kecskeméti Csárda & Borház</h3>
@@ -25,5 +31,6 @@
         </p>
     </div>
 </footer>
+
 </body>
 </html>

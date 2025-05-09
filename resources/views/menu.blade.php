@@ -7,7 +7,7 @@
             @foreach ($menu as $section)
                 <div class="space-y-6">
                     {{-- Kategória címe --}}
-                    <h2 class="text-2xl md:text-3xl font-semibold text-amber-800 border-b pb-2">
+                    <h2 class="text-2xl md:text-3xl font-semibold text-[#4169E1] border-b pb-2">
                         {{ $section['category'] }}
                     </h2>
 
@@ -21,7 +21,7 @@
                                         <p class="text-sm text-gray-600">{{ $item['description'] }}</p>
                                     @endif
                                 </div>
-                                <div class="text-amber-700 font-semibold whitespace-nowrap">
+                                <div class="text-[#4169E1] font-semibold whitespace-nowrap">
                                     {{ number_format($item['price'], 0, ',', '.') }} Ft
                                 </div>
                             </div>

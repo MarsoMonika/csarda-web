@@ -1,10 +1,12 @@
 @extends('layouts.app')
 
 @section('content')
-    {{-- Hero szekció --}}
-    <div class="relative w-full h-screen overflow-hidden bg-gradient-to-b from-transparent to-[#f9f9f5]" id="hero-container">
+
+    <div class="relative w-full h-[60vh] overflow-hidden bg-gradient-to-b from-transparent to-[#f9f9f5]"
+         id="hero-container">
         @for ($i = 1; $i <= 5; $i++)
-            <div class="absolute inset-0 transition-opacity duration-1000 {{ $i === 1 ? '' : 'opacity-0' }}" id="slide-{{ $i }}">
+            <div class="absolute inset-0 transition-opacity duration-1000 {{ $i === 1 ? '' : 'opacity-0' }}"
+                 id="slide-{{ $i }}">
                 <img src="/images/csarda{{ $i }}.jpg" class="w-full h-full object-cover" alt="Slide {{ $i }}">
             </div>
         @endfor
@@ -38,9 +40,9 @@
             {{-- Jobb oldali szöveg --}}
             <div class="text-center md:text-left space-y-6">
                 <h2
-                        class="text-3xl md:text-4xl font-bold font-[Playfair_Display] text-amber-900 opacity-0 translate-y-6 transition-all duration-1000"
-                        x-data
-                        x-intersect="
+                    class="text-3xl md:text-4xl font-bold font-[Playfair_Display] text-[#4169E1] opacity-0 translate-y-6 transition-all duration-1000"
+                    x-data
+                    x-intersect="
                     $el.classList.remove('opacity-0', 'translate-y-6');
                     $el.classList.add('animate-fadeInUp');
                 "
@@ -50,12 +52,12 @@
 
                 @foreach (['szoveg1', 'szoveg2', 'szoveg3'] as $s)
                     <p
-                            x-data
-                            x-intersect="
+                        x-data
+                        x-intersect="
                         $el.classList.remove('opacity-0', 'translate-y-6');
                         $el.classList.add('animate-fadeInUp');
                     "
-                            class="opacity-0 translate-y-6 transition-all duration-1000 text-lg leading-relaxed"
+                        class="opacity-0 translate-y-6 transition-all duration-1000 text-lg leading-relaxed"
                     >
                         {{ __('app.rolunk.' . $s) }}
                     </p>
