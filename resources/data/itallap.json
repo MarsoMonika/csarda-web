@@ -1,0 +1,220 @@
+[
+{
+    "category":"pálinkák", "items": [
+        { "nev": "Vilmos körte", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Szőlő", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Barack", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Meggy", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Cseresznye", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Szilva", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Birs", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Barrique szilva", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Kajszibarack (Gyulai)", "mennyiseg": ["2 cl", "4 cl"], "ar": [1100, 2200] },
+        { "nev": "Málna", "mennyiseg": ["2 cl", "4 cl"], "ar": [1100, 2200] },
+        { "nev": "Fahéjas alma", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Mézes barack", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] }
+    ]},
+    {
+    "category":"párlatok", "items": [
+        { "nev": "Unicum", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Unicum Next", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Unicum Szilva", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Barista", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Jägermeister", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Tequila Silver", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Bombay gin", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Finlandia vodka", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Bacardi rum (fehér, fekete)", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Metaxa 5*", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] },
+        { "nev": "Hennessy Konyak", "mennyiseg": ["2 cl", "4 cl"], "ar": [900, 1800] }
+    ]},
+    {"category":"szénsavas_üdítők","items": [
+        { "nev": "Coca Cola", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Coca Cola Zero", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Fanta Narancs", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Sprite", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Kinley Tonic", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Kinley Gyömbér", "mennyiseg": "0,25 l", "ar": 750 }
+    ]},
+    {
+        "category":"szénsavasmentes_üdítők", "items": [
+        { "nev": "Fuzetea Őszibarack", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Fuzetea Citrom", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Cappy Eper (35%)", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Cappy Narancs (100%)", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Cappy Ananász (50%)", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Cappy Őszibarack (46%)", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Cappy Alma (20%)", "mennyiseg": "0,25 l", "ar": 750 },
+        { "nev": "Cappy Körte (33%)", "mennyiseg": "0,25 l", "ar": 750 }
+    ]},
+    {
+        "category":"palackozott_ásványviz", "items": [
+        { "nev": "NaturAqua szénsavas vagy mentes", "mennyiseg": "0,25 l", "ar": 650 },
+        { "nev": "NaturAqua szénsavas vagy mentes", "mennyiseg": "0,75 l", "ar": 900 }
+    ]},
+    {
+        "category":"energiaital", "items": [
+        { "nev": "Red Bull", "mennyiseg": "0,25 l", "ar": 1000 }
+    ]},
+    {
+        "category":"káve_és_tea", "items": [
+        { "nev": "Koffeinmentes kávé", "ar": 600 },
+        { "nev": "Eszpresszó", "ar": 600 },
+        { "nev": "Hosszú kávé", "ar": 600 },
+        { "nev": "Cappuccino", "ar": 800 },
+        { "nev": "Jegeskávé vaníliafagyival", "ar": 1500 },
+        { "nev": "Ír kávé (4 cl whiskyvel)", "ar": 1500 },
+        { "nev": "Amarettós kávé (4 cl)", "ar": 1500 },
+        { "nev": "Mazagran (4 cl brandyvel)", "ar": 1500 },
+        { "nev": "Forró csokoládé", "ar": 1000 },
+        { "nev": "Tea (fekete, zöld, erdei gyümölcsös)", "ar": 900 }
+    ]},
+    {
+        "category":"ház_borai", "items": [
+        { "nev": "Font Irsai Olivér 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [450, 3500] },
+        { "nev": "Font Rosé 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [450, 3500] },
+        { "nev": "Font Kékfrankos 2020", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [450, 3500] }
+    ]},
+    {
+        "category":"pezsgők", "items": [
+        { "nev": "Törley Charmant Doux", "mennyiseg": ["0,2 l", "0,75 l"], "ar": [1500, 3500] },
+        { "nev": "Hungaria Extra Dry", "mennyiseg": ["0,2 l", "0,75 l"], "ar": [1500, 3500] },
+        { "nev": "Kreinbacher Brut Nature", "mennyiseg": ["0,75 l"], "ar": [8500] },
+        { "nev": "Törley Gála", "mennyiseg": ["0,75 l"], "ar": [3500] },
+        { "nev": "Szent István Pezsgő (száraz/édes)", "mennyiseg": ["0,75 l"], "ar": [2600] },
+        { "nev": "Asti Cinzano", "mennyiseg": ["0,75 l"], "ar": [6500] }
+    ]},
+    {
+        "category":"fehérborok", "items": [
+        {
+            "regio": "Balaton",
+            "borok": [
+                { "nev": "Figula Zenit&More (félszáraz) 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [550, 4000] },
+                { "nev": "Gilvesy Bohém 2020", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [600, 4500] },
+                { "nev": "Káli Kövek Rezeda 2020/2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [null, 5000] },
+                { "nev": "Konyári Loliense Fehér 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [null, 5500] },
+                { "nev": "Laposa Kéknyelű 2020", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [null, 6500] }
+            ]
+        },
+        {
+            "regio": "Somló",
+            "borok": [
+                { "nev": "Kreinbacher Somlói-Juhfark 2020/2021", "mennyiseg": ["0,75 l"], "ar": [5500] }
+            ]
+        },
+        {
+            "regio": "Pannonhalma",
+            "borok": [
+                { "nev": "Pannonhalmi Rajnai Rizling 2020/2021", "mennyiseg": ["0,75 l"], "ar": [5000] }
+            ]
+        },
+        {
+            "regio": "Eger",
+            "borok": [
+                { "nev": "St. Andrea Napbor 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [700, 5000] },
+                { "nev": "Thummerer Egri Muskotály (édes) 2020/2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [600, 4500] }
+            ]
+        },
+        {
+            "regio": "Etyek",
+            "borok": [
+                { "nev": "Nyakas Irsai Olivér 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [550, 4000] },
+                { "nev": "Etyeki Kúria Sauvignon Blanc 2020/2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [null, 4500] }
+            ]
+        },
+        {
+            "regio": "Tokaj",
+            "borok": [
+                { "nev": "Sauska Chardonnay 2020", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [null, 6000] },
+                { "nev": "Árpád-Hegy Pince Furmint 2020/2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [null, 5000] },
+                { "nev": "Göncölszegi Furmint 2019 (félszáraz)", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [450, 3500] }
+            ]
+        }
+    ]},
+    {
+        "category":"rosé_borok", "items": [
+        {
+            "regio": "Szekszárd",
+            "borok": [
+                { "nev": "Dúzsi Rosé 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [550, 4500] }
+            ]
+        },
+        {
+            "regio": "Villány",
+            "borok": [
+                { "nev": "Sauska Rosé 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [600, 4500] },
+                { "nev": "Vylyan Rosé 2021", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [550, 4000] }
+            ]
+        }
+    ]},
+    {
+        "category":"vörösborok", "items": [
+        {
+            "regio": "Balaton",
+            "borok": [
+                { "nev": "Légli Pinot Noir 2018", "mennyiseg": ["0,75 l"], "ar": [5500] }
+            ]
+        },
+        {
+            "regio": "Eger",
+            "borok": [
+                { "nev": "Böjt Egri Bikavér Superior 2018", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [600, 6000] },
+                { "nev": "Thummerer Tréfi Cuvée (édes) 2018/2019", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [600, 4500] },
+                { "nev": "St. Andrea Nagy-Eged-hegy Pinot Noir 2014/2015", "mennyiseg": ["0,75 l"], "ar": [26000] }
+            ]
+        },
+        {
+            "regio": "Etyek",
+            "borok": [
+                { "nev": "Etyeki Kúria Red 2018", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [600, 4500] }
+            ]
+        },
+        {
+            "regio": "Szekszárd",
+            "borok": [
+                { "nev": "Takler Merlot 2018", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [700, 5500] },
+                { "nev": "Heimann és Fiai Szekszárdi Kadarka 2020/2021", "mennyiseg": ["0,75 l"], "ar": [6000] },
+                { "nev": "Sebestyén Porkoláb-völgyi Cabernet Franc 2017", "mennyiseg": ["0,75 l"], "ar": [11000] }
+            ]
+        },
+        {
+            "regio": "Villány",
+            "borok": [
+                { "nev": "Günzer Cabernet Franc 2017", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [700, 5000] },
+                { "nev": "Sauska Cuvée 13 2019", "mennyiseg": ["0,75 l"], "ar": [5500] },
+                { "nev": "Sauska Syrah 2017/2018", "mennyiseg": ["0,75 l"], "ar": [9000] },
+                { "nev": "Gere Cabernet Sauvignon Barrique 2017", "mennyiseg": ["0,75 l"], "ar": [9000] },
+                { "nev": "Gere Kopar 2017/2018", "mennyiseg": ["0,75 l"], "ar": [14000] },
+                { "nev": "Gere Solus 2018", "mennyiseg": ["0,75 l"], "ar": [19000] },
+                { "nev": "Vylyan Montenuovo Cuvée 2018", "mennyiseg": ["0,75 l"], "ar": [8000] },
+                { "nev": "Stier Merlot 2015/2016", "mennyiseg": ["0,1 l", "0,75 l"], "ar": [1000, 8500] },
+                { "nev": "Sauska Cuvée 5 2015", "mennyiseg": ["0,75 l"], "ar": [38000] }
+            ]
+        }
+    ]},
+    {
+        "category":"desszertborok", "items": [
+        {
+            "regio": "Tokaj",
+            "borok": [
+                {
+                    "nev": "Gróf Degenfeld Tokaji Szamorodni 2017/2018",
+                    "mennyiseg": ["0,1 l", "0,75 l"],
+                    "ar": [1200, 6000]
+                },
+                {
+                    "nev": "Oremus 3 Puttonyos Aszú 2013/2014",
+                    "mennyiseg": ["0,75 l"],
+                    "ar": [11000]
+                },
+                {
+                    "nev": "Oremus 5 Puttonyos Aszú 2010",
+                    "mennyiseg": ["0,75 l"],
+                    "ar": [19000]
+                }
+            ]
+        }
+    ]
+}
+]
+

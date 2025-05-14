@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\AdminLoginController;
+use App\Http\Controllers\DrinkListController;
 use App\Http\Controllers\MenuController;
 use App\Http\Controllers\WeeklyOfferController;
 use App\Http\Middleware\AdminAuth;
@@ -12,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 Route::middleware([SetLocale::class])->group(function () {
     Route::get('/', fn () => view('home'))->name('home');
     Route::get('/etlap', [MenuController::class, 'index'])->name('menu');
+    Route::get('/itallap', [DrinkListController::class, 'index'])->name('drinkList');
     Route::get('/hetiaj', [WeeklyOfferController::class, 'show'])->name('weekly');
     Route::get('/admin/login', fn () => view('admin.login'))->name('admin.login');
     Route::post('/admin/login', [AdminLoginController::class, 'login'])->name('admin.login.submit');
