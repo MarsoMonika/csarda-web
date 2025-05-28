@@ -32,7 +32,7 @@ A modern restaurant website built with Laravel, running in Docker containers wit
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/your_username/csarda-web.git
+    git clone https://github.com/MarsoMonika/csarda-web
     cd csarda-web
     ```
 
