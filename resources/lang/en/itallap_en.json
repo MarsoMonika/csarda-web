@@ -1,0 +1,225 @@
+[
+    {
+        "category":"Pálinka", "items": [
+        { "name": "Cornus Williams Pear (Alk. 52%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Barrique juhfark Grape (Alk. 42%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Apricot (Alk. 52%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Sour Cherry (Alk. 42%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Rézangyal Black Cherry (Alk. 40%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Velvet Plum  (Alk. 52%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Quince (Alk. 62%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Barrique Plum (Alk. 42%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Gyulai Mélyvíz Apricot (Alk. 60%)", "quantity": ["2 cl", "4 cl"], "price": [1100, 2200] },
+        { "name": "Cornus Raspberry (Alk. 42%)", "quantity": ["2 cl", "4 cl"], "price": [1100, 2200] },
+        { "name": "Cornus Cinnamon Apple (Alk. 32%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Pajor Honey Apricot (Alk. 33%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] }
+    ]},
+    {
+        "category":"Spirits", "items": [
+        { "name": "Unicum", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Unicum Next", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Unicum Plum", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Barista", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Jägermeister", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Tequila Silver", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Bombay gin", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Finlandia vodka", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Bacardi rum (light, dark)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Metaxa 5*", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Hennessy Konyak", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] }
+    ]},
+    {"category": "Carbonated soft drinks", "items": [
+    { "name": "Coca Cola", "quantity": "0.25 l", "price": 750 },
+    { "name": "Coca Cola Zero", "quantity": "0.25 l", "price": 750 },
+    { "name": "Fanta Orange", "quantity": "0.25 l", "price": 750 },
+    { "name": "Sprite", "quantity": "0.25 l", "price": 750 },
+    { "name": "Kinley Tonic", "quantity": "0.25 l", "price": 750 },
+    { "name": "Kinley Ginger", "quantity": "0.25 l", "price": 750 }
+    ]},
+    {
+        "category": "Non carbonated soft drinks",
+        "items": [
+            { "name": "Fuzetea Peach", "quantity": "0.25 l", "price": 750 },
+            { "name": "Fuzetea Lemon", "quantity": "0.25 l", "price": 750 },
+            { "name": "Cappy Strawberry (35%)", "quantity": "0.25 l", "price": 750 },
+            { "name": "Cappy Orange (100%)", "quantity": "0.25 l", "price": 750 },
+            { "name": "Cappy Pineapple (50%)", "quantity": "0.25 l", "price": 750 },
+            { "name": "Cappy Peach (46%)", "quantity": "0.25 l", "price": 750 },
+            { "name": "Cappy Apple (20%)", "quantity": "0.25 l", "price": 750 },
+            { "name": "Cappy Pear (33%)", "quantity": "0.25 l", "price": 750 }
+    ]},
+    {
+        "category": "Bottled mineral water",
+        "items": [
+            { "name": "NaturAqua sparkling or still", "quantity": "0.25 l", "price": 650 },
+            { "name": "NaturAqua sparkling or still", "quantity": "0.75 l", "price": 900 }
+        ]
+    },
+    {
+        "category":"Energy drink", "items": [
+        { "name": "Red Bull", "quantity": "0,25 l", "price": 1000 }
+    ]},
+    {
+        "category": "Coffee and tea",
+        "items": [
+            { "name": "Decaf Coffee", "price": 600 },
+            { "name": "Espresso", "price": 600 },
+            { "name": "Long Coffee", "price": 600 },
+            { "name": "Cappuccino", "price": 800 },
+            { "name": "Iced Coffee with Vanilla Ice Cream", "price": 1500 },
+            { "name": "Irish Coffee (with 4 cl whiskey)", "price": 1500 },
+            { "name": "Amaretto Coffee (4 cl)", "price": 1500 },
+            { "name": "Mazagran (with 4 cl brandy)", "price": 1500 },
+            { "name": "Hot Chocolate", "price": 1000 },
+            { "name": "Tea (black, green, forest fruit)", "price": 900 }
+    ]},
+    {
+        "category":"House wines", "items": [
+        { "name": "Font Irsai Olivér 2021", "quantity": ["0,1 l", "0,75 l"], "price": [450, 3500] },
+        { "name": "Font Rosé 2021", "quantity": ["0,1 l", "0,75 l"], "price": [450, 3500] },
+        { "name": "Font Kékfrankos 2020", "quantity": ["0,1 l", "0,75 l"], "price": [450, 3500] }
+    ]},
+    {
+        "category": "Sparkling wines",
+        "items": [
+            { "name": "Törley Charmant Doux", "quantity": ["0.2 l", "0.75 l"], "price": [1500, 3500] },
+            { "name": "Hungaria Extra Dry", "quantity": ["0.2 l", "0.75 l"], "price": [1500, 3500] },
+            { "name": "Kreinbacher Brut Nature", "quantity": ["0.75 l"], "price": [8500] },
+            { "name": "Törley Gála", "quantity": ["0.75 l"], "price": [3500] },
+            { "name": "Szent István Sparkling Wine (dry/sweet)", "quantity": ["0.75 l"], "price": [2600] },
+            { "name": "Asti Cinzano", "quantity": ["0.75 l"], "price": [6500] }
+    ]},
+    {
+        "category":"White wines", "items": [
+        {
+            "region": "Balaton",
+            "wines": [
+                { "name": "Figula Zenit&More (semi-dry) 2021", "quantity": ["0.1 l", "0.75 l"], "price": [550, 4000] },
+                { "name": "Gilvesy Bohém 2020", "quantity": ["0.1 l", "0.75 l"], "price": [600, 4500] },
+                { "name": "Káli Kövek Rezeda 2020/2021", "quantity": ["0.1 l", "0.75 l"], "price": [null, 5000] },
+                { "name": "Konyári Loliense White 2021", "quantity": ["0.1 l", "0.75 l"], "price": [null, 5500] },
+                { "name": "Laposa Kéknyelű 2020", "quantity": ["0.1 l", "0.75 l"], "price": [null, 6500] }
+            ]
+        },
+        {
+            "region": "Somló",
+            "wines": [
+                { "name": "Kreinbacher Somlói-Juhfark 2020/2021", "quantity": ["0,75 l"], "price": [5500] }
+            ]
+        },
+        {
+            "region": "Pannonhalma",
+            "wines": [
+                { "name": "Pannonhalmi Rajnai Rizling 2020/2021", "quantity": ["0,75 l"], "price": [5000] }
+            ]
+        },
+        {
+            "region": "Eger",
+            "wines": [
+                { "name": "St. Andrea Napbor 2021", "quantity": ["0,1 l", "0,75 l"], "price": [700, 5000] },
+                { "name": "Thummerer Egri Muskotály (sweet) 2020/2021", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] }
+            ]
+        },
+        {
+            "region": "Etyek",
+            "wines": [
+                { "name": "Nyakas Irsai Olivér 2021", "quantity": ["0,1 l", "0,75 l"], "price": [550, 4000] },
+                { "name": "Etyeki Kúria Sauvignon Blanc 2020/2021", "quantity": ["0,1 l", "0,75 l"], "price": [null, 4500] }
+            ]
+        },
+        {
+            "region": "Tokaj",
+            "wines": [
+                { "name": "Sauska Chardonnay 2020", "quantity": ["0,1 l", "0,75 l"], "price": [null, 6000] },
+                { "name": "Árpád-Hegy Pince Furmint 2020/2021", "quantity": ["0,1 l", "0,75 l"], "price": [null, 5000] },
+                { "name": "Göncölszegi Furmint 2019 (semi-dry)", "quantity": ["0,1 l", "0,75 l"], "price": [450, 3500] }
+            ]
+        }
+    ]},
+    {
+        "category":"Rosé wines", "items": [
+        {
+            "region": "Szekszárd",
+            "wines": [
+                { "name": "Dúzsi Rosé 2021", "quantity": ["0,1 l", "0,75 l"], "price": [550, 4500] }
+            ]
+        },
+        {
+            "region": "Villány",
+            "wines": [
+                { "name": "Sauska Rosé 2021", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] },
+                { "name": "Vylyan Rosé 2021", "quantity": ["0,1 l", "0,75 l"], "price": [550, 4000] }
+            ]
+        }
+    ]},
+    {
+        "category":"Red wines", "items": [
+        {
+            "region": "Balaton",
+            "wines": [
+                { "name": "Légli Pinot Noir 2018", "quantity": ["0,75 l"], "price": [5500] }
+            ]
+        },
+        {
+            "region": "Eger",
+            "wines": [
+                { "name": "Böjt Egri Bikavér Superior 2018", "quantity": ["0,1 l", "0,75 l"], "price": [600, 6000] },
+                { "name": "Thummerer Tréfi Cuvée (sweet) 2018/2019", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] },
+                { "name": "St. Andrea Nagy-Eged-hegy Pinot Noir 2014/2015", "quantity": ["0,75 l"], "price": [26000] }
+            ]
+        },
+        {
+            "region": "Etyek",
+            "wines": [
+                { "name": "Etyeki Kúria Red 2018", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] }
+            ]
+        },
+        {
+            "region": "Szekszárd",
+            "wines": [
+                { "name": "Takler Merlot 2018", "quantity": ["0,1 l", "0,75 l"], "price": [700, 5500] },
+                { "name": "Heimann és Fiai Szekszárdi Kadarka 2020/2021", "quantity": ["0,75 l"], "price": [6000] },
+                { "name": "Sebestyén Porkoláb-völgyi Cabernet Franc 2017", "quantity": ["0,75 l"], "price": [11000] }
+            ]
+        },
+        {
+            "region": "Villány",
+            "wines": [
+                { "name": "Günzer Cabernet Franc 2017", "quantity": ["0,1 l", "0,75 l"], "price": [700, 5000] },
+                { "name": "Sauska Cuvée 13 2019", "quantity": ["0,75 l"], "price": [5500] },
+                { "name": "Sauska Syrah 2017/2018", "quantity": ["0,75 l"], "price": [9000] },
+                { "name": "Gere Cabernet Sauvignon Barrique 2017", "quantity": ["0,75 l"], "price": [9000] },
+                { "name": "Gere Kopár 2017/2018", "quantity": ["0,75 l"], "price": [14000] },
+                { "name": "Gere Solus 2018", "quantity": ["0,75 l"], "price": [19000] },
+                { "name": "Vylyan Montenuovo Cuvée 2018", "quantity": ["0,75 l"], "price": [8000] },
+                { "name": "Stier Merlot 2015/2016", "quantity": ["0,1 l", "0,75 l"], "price": [1000, 8500] },
+                { "name": "Sauska Cuvée 5 2015", "quantity": ["0,75 l"], "price": [38000] }
+            ]
+        }
+    ]},
+    {
+        "category":"Dessert wines", "items": [
+        {
+            "region": "Tokaj",
+            "wines": [
+                {
+                    "name": "Gróf Degenfeld Tokaji Szamorodni 2017/2018",
+                    "quantity": ["0,1 l", "0,75 l"],
+                    "price": [1200, 6000]
+                },
+                {
+                    "name": "Oremus 3 Puttonyos Aszú 2013/2014",
+                    "quantity": ["0,75 l"],
+                    "price": [11000]
+                },
+                {
+                    "name": "Oremus 5 Puttonyos Aszú 2010",
+                    "quantity": ["0,75 l"],
+                    "price": [19000]
+                }
+            ]
+        }
+    ]
+    }
+]
+

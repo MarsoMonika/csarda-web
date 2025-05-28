@@ -6,23 +6,22 @@
             @foreach ($menu as $section)
                 <div class="space-y-6">
                     <h2 class="text-2xl md:text-3xl font-semibold text-[#4169E1] border-b pb-2">
-                        {{ ucfirst(str_replace('_', ' ', $section['category'])) }}
+                        {{ $section['category'] }}
                     </h2>
-
                     <div class="grid gap-6">
                         @foreach ($section['items'] as $item)
                             <div class="flex justify-between items-start border-b pb-2">
                                 <div>
                                     <h3 class="text-lg font-medium">{{ $item['name'] }}</h3>
-                                    @if (!empty($item['regio']))
-                                        <p class="text-sm italic text-gray-500">{{ $item['regio'] }}</p>
+                                    @if (!empty($item['region']))
+                                        <p class="text-sm italic text-gray-500">{{ $item['region'] }}</p>
                                     @endif
                                     @if (!empty($item['description']))
                                         <p class="text-sm text-gray-600">{{ $item['description'] }}</p>
                                     @endif
                                 </div>
                                 <div class="text-[#4169E1] font-semibold whitespace-nowrap text-right">
-                                    {{ $item['price'] }}
+                                    {{ $item['price'] ?? '-' }}
                                 </div>
                             </div>
                         @endforeach

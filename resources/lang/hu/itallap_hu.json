@@ -1,0 +1,220 @@
+[
+    {
+        "category":"Pálinkák", "items": [
+        { "name": "Cornus Vilmos körte (Alk. 52%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Barrique juhfpricek Szőlő (Alk. 42%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus arack (Alk. 52%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Fürtös Meggy (Alk. 42%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Rézangyal Fekete Cseresznye (Alk. 40%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Hamvas Szilva (Alk. 52%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Cornus Birs (Alk. 62%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Barrique szilva (Alk. 42%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Gyulai Mélyvíz Kajszibarack (Alk. 60%)", "quantity": ["2 cl", "4 cl"], "price": [1100, 2200] },
+        { "name": "Cornus Málna (Alk. 42%)", "quantity": ["2 cl", "4 cl"], "price": [1100, 2200] },
+        { "name": "Cornus Fahéjas alma (Alk. 32%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Pajor Mézes barack (Alk. 33%)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] }
+    ]},
+    {
+        "category":"Párlatok", "items": [
+        { "name": "Unicum", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Unicum Next", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Unicum Szilva", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Barista", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Jägermeister", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Tequila Silver", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Bombay gin", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Finlandia vodka", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Bacardi rum (fehér, fekete)", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Metaxa 5*", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] },
+        { "name": "Hennessy Konyak", "quantity": ["2 cl", "4 cl"], "price": [900, 1800] }
+    ]},
+    {"category":"Szénsavas üdítők","items": [
+        { "name": "Coca Cola", "quantity": "0,25 l", "price": 750 },
+        { "name": "Coca Cola Zero", "quantity": "0,25 l", "price": 750 },
+        { "name": "Fanta Narancs", "quantity": "0,25 l", "price": 750 },
+        { "name": "Sprite", "quantity": "0,25 l", "price": 750 },
+        { "name": "Kinley Tonic", "quantity": "0,25 l", "price": 750 },
+        { "name": "Kinley Gyömbér", "quantity": "0,25 l", "price": 750 }
+    ]},
+    {
+        "category":"Szénsavasmentes üdítők", "items": [
+        { "name": "Fuzetea Ősziarack", "quantity": "0,25 l", "price": 750 },
+        { "name": "Fuzetea Citrom", "quantity": "0,25 l", "price": 750 },
+        { "name": "Cappy Eper (35%)", "quantity": "0,25 l", "price": 750 },
+        { "name": "Cappy Narancs (100%)", "quantity": "0,25 l", "price": 750 },
+        { "name": "Cappy Ananász (50%)", "quantity": "0,25 l", "price": 750 },
+        { "name": "Cappy Ősziarack (46%)", "quantity": "0,25 l", "price": 750 },
+        { "name": "Cappy Alma (20%)", "quantity": "0,25 l", "price": 750 },
+        { "name": "Cappy Körte (33%)", "quantity": "0,25 l", "price": 750 }
+    ]},
+    {
+        "category":"Palackozott ásványviz", "items": [
+        { "name": "NaturAqua szénsavas vagy mentes", "quantity": "0,25 l", "price": 650 },
+        { "name": "NaturAqua szénsavas vagy mentes", "quantity": "0,75 l", "price": 900 }
+    ]},
+    {
+        "category":"Energiaitalok", "items": [
+        { "name": "Red Bull", "quantity": "0,25 l", "price": 1000 }
+    ]},
+    {
+        "category":"Káve és tea", "items": [
+        { "name": "Koffeinmentes kávé", "price": 600 },
+        { "name": "Eszpresszó", "price": 600 },
+        { "name": "Hosszú kávé", "price": 600 },
+        { "name": "Cappuccino", "price": 800 },
+        { "name": "Jegeskávé vaníliafagyival", "price": 1500 },
+        { "name": "Ír kávé (4 cl whiskyvel)", "price": 1500 },
+        { "name": "Amarettós kávé (4 cl)", "price": 1500 },
+        { "name": "Mazagran (4 cl brandyvel)", "price": 1500 },
+        { "name": "Forró csokoládé", "price": 1000 },
+        { "name": "Tea (fekete, zöld, erdei gyümölcsös)", "price": 900 }
+    ]},
+    {
+        "category":"Ház borai", "items": [
+        { "name": "Font Irsai Olivér 2021", "quantity": ["0,1 l", "0,75 l"], "price": [450, 3500] },
+        { "name": "Font Rosé 2021", "quantity": ["0,1 l", "0,75 l"], "price": [450, 3500] },
+        { "name": "Font Kékfrankos 2020", "quantity": ["0,1 l", "0,75 l"], "price": [450, 3500] }
+    ]},
+    {
+        "category":"Pezsgők", "items": [
+        { "name": "Törley Charmant Doux", "quantity": ["0,2 l", "0,75 l"], "price": [1500, 3500] },
+        { "name": "Hungaria Extra Dry", "quantity": ["0,2 l", "0,75 l"], "price": [1500, 3500] },
+        { "name": "Kreinbacher Brut Nature", "quantity": ["0,75 l"], "price": [8500] },
+        { "name": "Törley Gála", "quantity": ["0,75 l"], "price": [3500] },
+        { "name": "Szent István Pezsgő (száraz/édes)", "quantity": ["0,75 l"], "price": [2600] },
+        { "name": "Asti Cinzano", "quantity": ["0,75 l"], "price": [6500] }
+    ]},
+    {
+        "category":"Fehérborok", "items": [
+        {
+            "region": "Balaton",
+            "wines": [
+                { "name": "Figula Zenit&More (félszáraz) 2021", "quantity": ["0,1 l", "0,75 l"], "price": [550, 4000] },
+                { "name": "Gilvesy Bohém 2020", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] },
+                { "name": "Káli Kövek Rezeda 2020/2021", "quantity": ["0,1 l", "0,75 l"], "price": [null, 5000] },
+                { "name": "Konyári Loliense Fehér 2021", "quantity": ["0,1 l", "0,75 l"], "price": [null, 5500] },
+                { "name": "Laposa Kéknyelű 2020", "quantity": ["0,1 l", "0,75 l"], "price": [null, 6500] }
+            ]
+        },
+        {
+            "region": "Somló",
+            "wines": [
+                { "name": "Kreinbacher Somlói-Juhfark 2020/2021", "quantity": ["0,75 l"], "price": [5500] }
+            ]
+        },
+        {
+            "region": "Pannonhalma",
+            "wines": [
+                { "name": "Pannonhalmi Rajnai Rizling 2020/2021", "quantity": ["0,75 l"], "price": [5000] }
+            ]
+        },
+        {
+            "region": "Eger",
+            "wines": [
+                { "name": "St. Andrea Napbor 2021", "quantity": ["0,1 l", "0,75 l"], "price": [700, 5000] },
+                { "name": "Thummerer Egri Muskotály (édes) 2020/2021", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] }
+            ]
+        },
+        {
+            "region": "Etyek",
+            "wines": [
+                { "name": "Nyakas Irsai Olivér 2021", "quantity": ["0,1 l", "0,75 l"], "price": [550, 4000] },
+                { "name": "Etyeki Kúria Sauvignon Blanc 2020/2021", "quantity": ["0,1 l", "0,75 l"], "price": [null, 4500] }
+            ]
+        },
+        {
+            "region": "Tokaj",
+            "wines": [
+                { "name": "Sauska Chardonnay 2020", "quantity": ["0,1 l", "0,75 l"], "price": [null, 6000] },
+                { "name": "Árpád-Hegy Pince Furmint 2020/2021", "quantity": ["0,1 l", "0,75 l"], "price": [null, 5000] },
+                { "name": "Göncölszegi Furmint 2019 (félszáraz)", "quantity": ["0,1 l", "0,75 l"], "price": [450, 3500] }
+            ]
+        }
+    ]},
+    {
+        "category":"Roséborok", "items": [
+        {
+            "region": "Szekszárd",
+            "wines": [
+                { "name": "Dúzsi Rosé 2021", "quantity": ["0,1 l", "0,75 l"], "price": [550, 4500] }
+            ]
+        },
+        {
+            "region": "Villány",
+            "wines": [
+                { "name": "Sauska Rosé 2021", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] },
+                { "name": "Vylyan Rosé 2021", "quantity": ["0,1 l", "0,75 l"], "price": [550, 4000] }
+            ]
+        }
+    ]},
+    {
+        "category":"Vörösborok", "items": [
+        {
+            "region": "Balaton",
+            "wines": [
+                { "name": "Légli Pinot Noir 2018", "quantity": ["0,75 l"], "price": [5500] }
+            ]
+        },
+        {
+            "region": "Eger",
+            "wines": [
+                { "name": "Böjt Egri Bikavér Superior 2018", "quantity": ["0,1 l", "0,75 l"], "price": [600, 6000] },
+                { "name": "Thummerer Tréfi Cuvée (édes) 2018/2019", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] },
+                { "name": "St. Andrea Nagy-Eged-hegy Pinot Noir 2014/2015", "quantity": ["0,75 l"], "price": [26000] }
+            ]
+        },
+        {
+            "region": "Etyek",
+            "wines": [
+                { "name": "Etyeki Kúria Red 2018", "quantity": ["0,1 l", "0,75 l"], "price": [600, 4500] }
+            ]
+        },
+        {
+            "region": "Szekszárd",
+            "wines": [
+                { "name": "Takler Merlot 2018", "quantity": ["0,1 l", "0,75 l"], "price": [700, 5500] },
+                { "name": "Heimann és Fiai Szekszárdi Kadarka 2020/2021", "quantity": ["0,75 l"], "price": [6000] },
+                { "name": "Sebestyén Porkoláb-völgyi Cabernet Franc 2017", "quantity": ["0,75 l"], "price": [11000] }
+            ]
+        },
+        {
+            "region": "Villány",
+            "wines": [
+                { "name": "Günzer Cabernet Franc 2017", "quantity": ["0,1 l", "0,75 l"], "price": [700, 5000] },
+                { "name": "Sauska Cuvée 13 2019", "quantity": ["0,75 l"], "price": [5500] },
+                { "name": "Sauska Syrah 2017/2018", "quantity": ["0,75 l"], "price": [9000] },
+                { "name": "Gere Cabernet Sauvignon Barrique 2017", "quantity": ["0,75 l"], "price": [9000] },
+                { "name": "Gere Kopár 2017/2018", "quantity": ["0,75 l"], "price": [14000] },
+                { "name": "Gere Solus 2018", "quantity": ["0,75 l"], "price": [19000] },
+                { "name": "Vylyan Montenuovo Cuvée 2018", "quantity": ["0,75 l"], "price": [8000] },
+                { "name": "Stier Merlot 2015/2016", "quantity": ["0,1 l", "0,75 l"], "price": [1000, 8500] },
+                { "name": "Sauska Cuvée 5 2015", "quantity": ["0,75 l"], "price": [38000] }
+            ]
+        }
+    ]},
+    {
+        "category":"Desszertborok", "items": [
+        {
+            "region": "Tokaj",
+            "wines": [
+                {
+                    "name": "Gróf Degenfeld Tokaji Szamorodni 2017/2018",
+                    "quantity": ["0,1 l", "0,75 l"],
+                    "price": [1200, 6000]
+                },
+                {
+                    "name": "Oremus 3 Puttonyos Aszú 2013/2014",
+                    "quantity": ["0,75 l"],
+                    "price": [11000]
+                },
+                {
+                    "name": "Oremus 5 Puttonyos Aszú 2010",
+                    "quantity": ["0,75 l"],
+                    "price": [19000]
+                }
+            ]
+        }
+    ]
+    }
+]
+

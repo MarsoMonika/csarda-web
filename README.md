@@ -1,126 +1,175 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🏠 Csárda Web – Laravel + Docker Project
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+[![Laravel](https://img.shields.io/badge/Laravel-v12.x-red?logo=laravel)](https://laravel.com/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-blue?logo=docker)]
+[![Nginx](https://img.shields.io/badge/Nginx-Alpine-green?logo=nginx)]
+[![MariaDB](https://img.shields.io/badge/MariaDB-11.x-blue?logo=mariadb)]
+[![Vite](https://img.shields.io/badge/Vite-frontend-yellow?logo=vite)]
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-06b6d4?logo=tailwindcss)]
 
-## About Laravel
+A modern restaurant website built with Laravel, running in Docker containers with Nginx and MariaDB. Frontend is handled by Vite and Tailwind CSS.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 📁 File Structure
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- `docker-compose.yml`: Container configuration
+- `Dockerfile`: PHP-FPM build for Laravel
+- `nginx/default.conf`: Nginx server config
+- `.env`: Environment variables, database credentials, and app settings
+- `resources/`: Blade templates, translations, assets
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 🚀 Getting Started
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### **Prerequisites**
+- Docker & Docker Compose
+- Node.js & npm (for frontend build)
+- Composer
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### **Setup Steps**
 
-## Laravel Sponsors
+1. **Clone the repository**
+    ```sh
+    git clone https://github.com/your_username/csarda-web.git
+    cd csarda-web
+    ```
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+2. **Create your .env file**
+    ```sh
+    cp .env.example .env
+    ```
+   Edit database, app and asset settings as needed.
 
-### Premium Partners
+3. **Install dependencies**
+    ```sh
+    composer install
+    npm install
+    ```
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development/)**
-- **[Active Logic](https://activelogic.com)**
+4. **Build frontend assets**
+    ```sh
+    npm run build
+    ```
 
-## Contributing
+5. **Start the containers**
+    ```sh
+    docker compose up -d --build
+    ```
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+6. **Run migrations and seeders**
+    ```sh
+    docker compose exec app php artisan migrate --seed
+    ```
 
-## Code of Conduct
+7. **Open your browser:**
+   [http://localhost:8000](http://localhost:8000)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+## 🗃️ Data Model & Menu Structure
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+> **Note:**  
+> All menu (meals) and drink items are stored in language-specific JSON files.  
+> Only static reference data (e.g. allergen definitions and translations) are stored in the database.
 
-## License
+---
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Csárda Web – Laravel + Docker Project
+### Menu & Drink List
 
-This is a Laravel-based website running in a Docker environment with Nginx and MariaDB support.
+- The menu (`etlap`) and drink list (`italap`, coming soon) are stored as JSON files for each language:
+    ```
+    /resources/lang/
+        ├── hu/
+        │    ├── app.php
+        │    ├── etlap_hu.json
+        │    └── itallap_hu.json
+        ├── en/
+        │    ├── app.php
+        │    ├── etlap_en.json
+        │    └── itallap_en.json
+        └── de/
+             ├── app.php
+             ├── etlap_de.json
+             └── itallap_de.json
+    ```
+- **Each JSON file contains the full menu in the relevant language, including translations, categories, and items.**
 
-## File structure
-
-- `docker-compose.yml`: container configuration
-- `Dockerfile`: builds the PHP-FPM environment
-- `nginx/default.conf`: web server configuration for Laravel
-- `.env`: environment variables, database credentials, and app settings
-
-## Launching the project
-
-```bash
-docker-compose up -d --build
+#### Example `etlap_en.json`:
+```json
+{
+    "category": "Soups in a Cup",
+    "items": [
+        {
+            "name": "Farmyard Chicken Soup",
+            "description": "with cooked vegetables and goose-neck pasta",
+            "price": 1900,
+            "allergens": []
+        },
+        {
+            "name": "Jókai Bean Soup",
+            "description": "with sausage, beans, and vegetables",
+            "price": 2290,
+            "allergens": ["gluten", "celery"]
+        }
+    ]
+}
 ```
-## Data Model
 
-### Types
-List of main ingredient types, used to classify meals.
+- When rendering the menu, the app **matches the slugs from the item's `"allergens"` array** to the allergen definitions/translations in the database, so it can display the correct names (in the selected language) and icons if needed.
 
-- `slug` (string): Unique identifier, e.g., `chicken`, `vegetarian`, etc.
-- Localization handled via `resources/lang/{locale}/types.php`.
 
-### Categories
-Meal categories such as soups, desserts, salads.
+---
 
-- `slug` (string): Unique identifier, e.g., `soup`, `dessert`.
-- Localization handled via `resources/lang/{locale}/categories.php`.
+**Summary:**
+- *Allergen slugs and translations live in the DB.*
+- *The association between a meal and its allergens is managed in the JSON files, by referencing those slugs in the `"allergens"` array for each item.*
 
-### Meals
-Main meals table.
+## 🔄 Reset and Reseed the Database
 
-- `id` (auto-increment)
-- `slug` (string, unique)
-- `category_id` → foreign key to `categories`
-- `type_id` → foreign key to `types`
-- `price` (integer, in HUF)
-
-### Meal Translations
-Multilingual names and descriptions of meals.
-
-- `meal_id` → foreign key to `meals`
-- `locale`: `hu`, `en`, `de`
-- `name`: name of the meal
-- `description`: short description (optional)
-
-### Allergens
-- `allergens` table stores allergen slugs
-- `allergen_translations` table stores localized names
-- `meal_allergen` (pivot table) connects allergens to meals
-
-### Reset and Reseed the Database
-
-To completely reset the database and repopulate it with seed data, run:
-
-```bash
-php artisan migrate:fresh --seed
+To **completely reset the database and repopulate seed data**:
+```sh
+docker compose exec app php artisan migrate:fresh --seed
 ```
-	
-To seed the database without resetting it:
 
-```bash
-php artisan db:seed
-```
+## 🗺️ Roadmap
+
+- [x] Basic multilingual meal types, categories, and meals
+- [x] Multi-language support (hu, en, de)
+- [x] Responsive design with Tailwind CSS
+- [x] Dockerized Laravel + Nginx + MariaDB setup
+- [x] Admin authentication & authorization
+- [x] Admin-controlled weekly menu
+
+### Planned Features
+
+- [ ] **Allergen management**
+    - [ ] Add allergen assignment for each meal (in admin)
+    - [ ] Display allergens in all supported languages
+
+- [ ] **Meal images**
+    - [ ] Image upload for each meal (admin)
+
+- [ ] **Gallery page**
+    - [ ] Add photo gallery with images of the restaurant
+
+## 📸 Screenshots
+
+### Home Page
+![Home page](app/docs/screenshots/home.png)
+
+### About Section
+![About section](app/docs/screenshots/homeAbout.png)
+
+### Menu Example
+![Menu page](app/docs/screenshots/menu.png)
+
+### Drink List Example
+![Drink list](app/docs/screenshots/drinkList.png)
+
+### Weekly Offer
+![Weekly offer](app/docs/screenshots/weeklyOffer.png)
+
+### Contacts Page
+![Contacts page](app/docs/screenshots/contacts.png)

@@ -20,4 +20,5 @@ class MenuController extends Controller
 
         return view('menu', compact('menu'));
     }
+
 }

@@ -19,7 +19,7 @@
                     @endif
                 </div>
             @endif
-
+            <p>Menü ára helyben fogyasztva 2490-ft elvitelre 2690-ft, elérhető 11:30-15:00 között </p>
             {{-- Levesek --}}
             @if ($soups->count())
                 <div class="mb-8">
